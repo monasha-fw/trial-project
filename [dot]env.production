@@ -1,0 +1,7 @@
+PORT=4010
+
+SESSION_SECRET=dogsareloyal
+DATABASE_URL="mysql://monasha_fw:Aspire1235@db4free.net:3306/monasha_fw_db4fr"
+REDIS_URL=redis://red-chf3fk2k728trcr7tktg:6379
+REDIS_PASS=redispw
+REDIS_PORT=6379
